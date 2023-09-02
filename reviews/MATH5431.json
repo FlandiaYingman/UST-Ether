@@ -1,0 +1,127 @@
+{
+    "error": false,
+    "course": {
+        "id": 1807,
+        "subject": "MATH",
+        "code": "5431",
+        "name": "Advanced Mathematical Statistics I",
+        "description": "Theory of statistical inference in estimation. Topics include: sufficiency, ancillary statistics, completeness, UMVU estimators, information inequality, efficiency, asymptotic maximum likelihood theory. Other topics may include Bayes estimation and conditional inference.",
+        "categories": [],
+        "website": null,
+        "credits": 3,
+        "semesters": [
+            2210,
+            2110,
+            2010,
+            1910,
+            1810,
+            1710,
+            1610
+        ],
+        "prerequisites": "",
+        "corequisites": "",
+        "exclusions": "",
+        "rating_content": 4.5,
+        "rating_teaching": 5,
+        "rating_grading": 5,
+        "rating_workload": 5,
+        "review_count": 2,
+        "single_review": false,
+        "enrollment_status": 0,
+        "is_favourited": false,
+        "is_subscribed": false,
+        "user_review_hash": "",
+        "contributor_has_more": false,
+        "instructors": [
+            {
+                "id": 888,
+                "name": "JING, Bing-yi",
+                "count": 1
+            },
+            {
+                "id": 1543,
+                "name": "WANG, Wenjia",
+                "count": 1
+            }
+        ]
+    },
+    "reviews": [
+        {
+            "hash": "qJQzPfAeVI1UM4z4L42QHnMbhjmNAUxN",
+            "semester": "2020-21 Fall",
+            "instructors": [
+                {
+                    "id": 888,
+                    "name": "JING, Bing-yi",
+                    "rating": 1
+                }
+            ],
+            "is_author": false,
+            "author": "everglow",
+            "date": "Jan 21, 2021",
+            "title": "",
+            "comment_content": "There are lots of useful and practical statistical methods that have been introduced in this course.<br />For example, Data reduction (Completeness, Sufficiency, M-S, Ancillary), Unbiased estimation (UMVUE, Fisher information matrix), Maximum likelihood estimation, Asymptotic efficiency, Transformation (multivariate delta-method, variance stabilization), Quantiles, M-estimation, U-statistics, V-statistics, Jackknife, Bootstrap,&nbsp;&nbsp;Bayes estimation, and empirical Bayes.<br />The latter part of the chapters is not the classic Math Stat, which is more difficult and less likely to be put the exam. But they are equally important.",
+            "comment_teaching": "Prof.Jing is very humorous, not rigid in class. <br />And he is handsome~",
+            "comment_grading": "Everyone seems to be in A range.",
+            "comment_workload": "Very little homework.<br />But if you want to learn it well, you need to spend a lot of time.",
+            "rating_content": 5,
+            "rating_teaching": 5,
+            "rating_grading": 5,
+            "rating_workload": 5,
+            "has_midterm": false,
+            "has_final": true,
+            "has_quiz": false,
+            "has_assignment": true,
+            "has_essay": false,
+            "has_project": false,
+            "has_attendance": false,
+            "has_reading": false,
+            "has_presentation": false,
+            "upvote_count": 2,
+            "vote_count": 2,
+            "voted": false,
+            "is_upvote": false,
+            "comment_count": 0,
+            "attachments": []
+        },
+        {
+            "hash": "79bjbLUYVwqDMcvvrWO7SeYt6JU4mf6E",
+            "semester": "2021-22 Fall",
+            "instructors": [
+                {
+                    "id": 1543,
+                    "name": "WANG, Wenjia",
+                    "rating": 1
+                }
+            ],
+            "is_author": false,
+            "author": "ruozhilaji",
+            "date": "Dec 28, 2021",
+            "title": "Good Introduction, but not theoretical",
+            "comment_content": "Principles of Data Reduction: Sufficient, Complete, Ancillary;<br />UMVUE;<br />MLE and Efficient Estimation;<br />Transformation;<br />Quantiles;<br />M-Estimation (exam does not test this);<br />U-Statistics;<br />Jackknife;<br />Bootstrap;<br />Bayes Estimator.<br /><br />I think Prof. Jing's lecture notes are not well designed. Sometimes there are typos. Sometimes the orders are not appropriate.<br /><br />It seems this year more topics are covered. And some seminar-style lectures are given this year. Please see the &quot;Teaching&quot; part.",
+            "comment_teaching": "Prof. Wang is a new AP from GZ. He said he only teaches this course once since Prof. Jing is not in HK this semester. He somehow rearranges the lecture notes and gives generally clear lectures. He is also easy to approach by email. He gives 4~5 lectures on some more popular statistic topics, eg, SVM.",
+            "comment_grading": "The assignments are graded this year and the prof discusses some common mistakes during the lecture.<br /><br />The final is mainly about the first several chapters, which emphasizes asymptotic efficiency a lot this year. <br /><br />The grading should be fine since getting very slightly above the overall mean is enough for an A. But if you aim at A+, you cannot lose too many marks in the final.",
+            "comment_workload": "Again, if you only want an A/A-/pass, you do not need to do too much. Reading thoroughly the lecture notes including the examples is enough.",
+            "rating_content": 4,
+            "rating_teaching": 5,
+            "rating_grading": 5,
+            "rating_workload": 5,
+            "has_midterm": false,
+            "has_final": true,
+            "has_quiz": false,
+            "has_assignment": true,
+            "has_essay": false,
+            "has_project": false,
+            "has_attendance": false,
+            "has_reading": false,
+            "has_presentation": false,
+            "upvote_count": 2,
+            "vote_count": 3,
+            "voted": false,
+            "is_upvote": false,
+            "comment_count": 0,
+            "attachments": []
+        }
+    ],
+    "composer": []
+}

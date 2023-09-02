@@ -1,0 +1,81 @@
+{
+    "error": false,
+    "course": {
+        "id": 346,
+        "subject": "ELEC",
+        "code": "4620",
+        "name": "Photonics and Optical Communications",
+        "description": "To introduce optoelectronics and fiber optics for communications. Topics include optical fibers, optical sources, optical detectors, and passive components for wavelength-division multiplexing. Laboratory gives hands-on experience in handling optical fibers, lasers and detectors, micro-optical components, opto-mechanical equipment, and building wavelength-division-multiplexed optical links.",
+        "categories": [],
+        "website": "http://course.ee.ust.hk/elec4620",
+        "credits": 4,
+        "semesters": [
+            2010,
+            1810,
+            1630,
+            1410
+        ],
+        "prerequisites": "<a class=\"course-link\" data-subject=\"ELEC\" data-code=\"3600\" href=\"/review/ELEC3600\" target=\"_blank\">ELEC 3600</a>",
+        "corequisites": "",
+        "exclusions": "",
+        "rating_content": 5,
+        "rating_teaching": 5,
+        "rating_grading": 5,
+        "rating_workload": 2,
+        "review_count": 1,
+        "single_review": false,
+        "enrollment_status": 3,
+        "is_favourited": false,
+        "is_subscribed": false,
+        "user_review_hash": "",
+        "contributor_has_more": false,
+        "instructors": [
+            {
+                "id": 180,
+                "name": "POON, Andrew Wing On",
+                "count": 1
+            }
+        ]
+    },
+    "reviews": [
+        {
+            "hash": "IVgERxFzEK6UgrncDOzSzranPHqKHhM5",
+            "semester": "2018-19 Fall",
+            "instructors": [
+                {
+                    "id": 180,
+                    "name": "POON, Andrew Wing On",
+                    "rating": 1
+                }
+            ],
+            "is_author": false,
+            "author": "mrimlinger",
+            "date": "Jan 22, 2019",
+            "title": "ELEC4620 (exchange student point of view)",
+            "comment_content": "The course is well structured and covers very interesting topics from fibre optics to semiconductors optical devices.<br />The emphasis on physic is very much appreciated with rigorous equations.<br />Laboratories offer practical understanding and hands-on experience with fibre optics and related equipment.",
+            "comment_teaching": "Very good slides, the teacher is interesting and invested in the course, always available for questions.",
+            "comment_grading": "Grading based on assignments, lab reports, project report, project presentation and final exam.",
+            "comment_workload": "Quite a lot of work with lab reports, assignments, final project, etc but definitely worth it and rewarding.",
+            "rating_content": 5,
+            "rating_teaching": 5,
+            "rating_grading": 5,
+            "rating_workload": 2,
+            "has_midterm": false,
+            "has_final": true,
+            "has_quiz": false,
+            "has_assignment": true,
+            "has_essay": false,
+            "has_project": true,
+            "has_attendance": false,
+            "has_reading": true,
+            "has_presentation": true,
+            "upvote_count": 4,
+            "vote_count": 4,
+            "voted": false,
+            "is_upvote": false,
+            "comment_count": 0,
+            "attachments": []
+        }
+    ],
+    "composer": []
+}

@@ -1,0 +1,78 @@
+{
+    "error": false,
+    "course": {
+        "id": 3911,
+        "subject": "CORE",
+        "code": "1403I",
+        "name": "Academic English for University Studies",
+        "description": "This course emphasises the development of academic literacy skills, in addition to developing students’ language proficiency.Students will learn how to find and evaluate sources for academic tasks and will further develop their abilities to be critical in reading and writing, to synthesise ideas and to develop coherent arguments. Collaboration and leadership skills will also be emphasised to further develop skills and habits for autonomous lifelong learning.",
+        "categories": [],
+        "website": null,
+        "credits": 3,
+        "semesters": [
+            2230
+        ],
+        "prerequisites": "<a class=\"course-link\" data-subject=\"CORE\" data-code=\"1401\" href=\"/review/CORE1401\" target=\"_blank\">CORE 1401</a> OR <a class=\"course-link\" data-subject=\"CORE\" data-code=\"1402\" href=\"/review/CORE1402\" target=\"_blank\">CORE 1402</a> OR Level 5 in HKDSE English Language with all papers at or above level 4 OR Overall bandscore of 6.5 in IELTS with all subscores at or above 6.0 OR equivalence of the above",
+        "corequisites": "",
+        "exclusions": "LANG 1003",
+        "rating_content": 5,
+        "rating_teaching": 5,
+        "rating_grading": 5,
+        "rating_workload": 5,
+        "review_count": 1,
+        "single_review": false,
+        "enrollment_status": 3,
+        "is_favourited": false,
+        "is_subscribed": false,
+        "user_review_hash": "",
+        "contributor_has_more": false,
+        "instructors": [
+            {
+                "id": 1707,
+                "name": "MAK, Linda Y O",
+                "count": 1
+            }
+        ]
+    },
+    "reviews": [
+        {
+            "hash": "7tS1Lv2LQbZ7Cg1LIAaFI28SI3e5eIHp",
+            "semester": "2022-23 Spring",
+            "instructors": [
+                {
+                    "id": 1707,
+                    "name": "MAK, Linda Y O",
+                    "rating": 1
+                }
+            ],
+            "is_author": false,
+            "author": "kykyw",
+            "date": "Jun 06, 2023",
+            "title": "",
+            "comment_content": "主要係教你點樣落apa <br />跟住就冇咩嘢學到",
+            "comment_teaching": "好有心教嘅老師👍👍👍<br />guideline 真係好清晰<br />要求高但係會話俾你聽點樣攞高分<br />例如有sample睇<br />基本上做得好過sample唔會太爛grade<br />而且仲可以逢禮拜三book佢<br />我建議係點都係交之前見一見佢<br />佢會話比你聽有咩嘢重可以執<br />最好問清楚內容點樣可以寫好啲或者做好啲",
+            "comment_grading": "My grade: A-<br />佢有講過大概點樣比分<br />我冇記錯嘅話佢好似話cle 會每個grade搵一份做standard 然後叫instructor跟著改，然後如果嗰個instructor偏向係俾得鬆手嘅話，cle會將instructor改嘅所有grade全部乘返細嗰分<br />所以佢嘅意思係，靚唔靚grade都好睇cle 覺得instructor係鬆手嘅定係比較緊啲嘅而去做調節",
+            "comment_workload": "得Writing 一份再加剪一條video<br />Workload其實唔算好大",
+            "rating_content": 5,
+            "rating_teaching": 5,
+            "rating_grading": 5,
+            "rating_workload": 5,
+            "has_midterm": false,
+            "has_final": false,
+            "has_quiz": false,
+            "has_assignment": true,
+            "has_essay": false,
+            "has_project": false,
+            "has_attendance": false,
+            "has_reading": false,
+            "has_presentation": false,
+            "upvote_count": 0,
+            "vote_count": 2,
+            "voted": false,
+            "is_upvote": false,
+            "comment_count": 0,
+            "attachments": []
+        }
+    ],
+    "composer": []
+}

@@ -1,0 +1,88 @@
+{
+    "error": false,
+    "course": {
+        "id": 3794,
+        "subject": "ISDN",
+        "code": "1001",
+        "name": "Introduction to Integrative Systems and Design",
+        "description": "This is a foundation course in which students will learn about the societal, economical, and cultural impact of integrative systems and the importance of integrating design into the creation of integrative systems. Through lectures, discussions, case-study and presentation, hands-on dis-assembly and re-assembly exercises, students will learn about the basic design principles, design terminology, design skill-sets, design thinking and process, and how a good design relates to the design principles. Students will also learn about what is an integrative system and the importance of using technology to build an integrative system and how it is decomposed into different sub-systems that involve multiple technology components, interacting with each other.",
+        "categories": [],
+        "website": null,
+        "credits": 3,
+        "semesters": [
+            2210
+        ],
+        "prerequisites": "",
+        "corequisites": "",
+        "exclusions": "",
+        "rating_content": 4,
+        "rating_teaching": 4,
+        "rating_grading": 3,
+        "rating_workload": 1,
+        "review_count": 1,
+        "single_review": false,
+        "enrollment_status": 0,
+        "is_favourited": false,
+        "is_subscribed": false,
+        "user_review_hash": "",
+        "contributor_has_more": false,
+        "instructors": [
+            {
+                "id": 212,
+                "name": "TSUI, Chi Ying",
+                "count": 1
+            },
+            {
+                "id": 1653,
+                "name": "LEUNG, Jac Ka Lok",
+                "count": 1
+            }
+        ]
+    },
+    "reviews": [
+        {
+            "hash": "lvNs7E2DAxP0IlnQhFHdtRR04kXA7SUb",
+            "semester": "2022-23 Fall",
+            "instructors": [
+                {
+                    "id": 212,
+                    "name": "TSUI, Chi Ying",
+                    "rating": 1
+                },
+                {
+                    "id": 1653,
+                    "name": "LEUNG, Jac Ka Lok",
+                    "rating": 1
+                }
+            ],
+            "is_author": false,
+            "author": "empathy",
+            "date": "Jan 04, 2023",
+            "title": "Impressive memory :)",
+            "comment_content": "The course is an integration of ISD. Many faculties members and many elements were included in the lectures and assignments. <br /><br />Phase 1: Field Trip<br />Different teams went to different places and observe any interesting stuff. Then each team needed to work on a presentation, commercial and journal, and everyone needed to work on their own storybooks. The happiest part is that we had $ 70 per person.<br /><br />Phase 2: Disassembly and re-assembly<br />It was about technical stuff. Actually, I know nothing:)<br /><br />Phase 3: Final Project<br />We only had about 2 weeks to prepare it, from brainstorming to making a booth as a presentation. Our topic is the smart city. <br /><br />In fact, the content is not that important. This course's key value is making friends and finding suitable groupmates. <br />As the course ended at 9 pm on Wednesday, I always had dinner with my classmates. Also a good way to make friends. <br />ISDN好玩",
+            "comment_teaching": "Teaching is fair. Professors and TAs are friendly and helpful, and they always gave advise on your project.",
+            "comment_grading": "Official Grading:<br />In-class participation and Class assignment: 20%<br />Individual field trip storybook: 5%<br />Field trip presentation and report (Team): 15%<br />Disassembly and re-assembly report: 25%<br />Mini-project (Team): 30%<br />Individual Reflection: 5%<br /><br />There is no clear marking scheme as it is project-based. I only got B+.",
+            "comment_workload": "The workload is HEAVY compared to other 3-credited courses. The time for the class was 12-1:20 pm on Tue and 6-9 pm on Wednesday. <br /><br />They always told you the deadlines just before the deadlines. You cannot have a plan for it, and it only destroys your schedule. We only had 1 day to complete the commercial and present it as drama (with poster, story plot and storyboard). <br /><br />In fact, your groupmates mean everything:) So I typed attendance as necessary, at least you can keep in contact with your groupmates.",
+            "rating_content": 4,
+            "rating_teaching": 4,
+            "rating_grading": 3,
+            "rating_workload": 1,
+            "has_midterm": false,
+            "has_final": false,
+            "has_quiz": false,
+            "has_assignment": true,
+            "has_essay": false,
+            "has_project": true,
+            "has_attendance": true,
+            "has_reading": false,
+            "has_presentation": true,
+            "upvote_count": 2,
+            "vote_count": 2,
+            "voted": false,
+            "is_upvote": false,
+            "comment_count": 1,
+            "attachments": []
+        }
+    ],
+    "composer": []
+}

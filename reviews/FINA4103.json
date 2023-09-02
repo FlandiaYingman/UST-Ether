@@ -1,0 +1,118 @@
+{
+    "error": false,
+    "course": {
+        "id": 1536,
+        "subject": "FINA",
+        "code": "4103",
+        "name": "Financial Markets Trading and Structure",
+        "description": "This course examines liquidity, market structure and trading. The focus is on examining the efficiency of trading systems and markets, the impact of new algorithmic trading on markets, the role of intermediaries and regulatory actions on market structure issues. Students learn about a number of alternative market structures in terms of their economic and operational effectiveness.",
+        "categories": [],
+        "website": null,
+        "credits": 3,
+        "semesters": [
+            1830,
+            1730,
+            1630
+        ],
+        "prerequisites": "<a class=\"course-link\" data-subject=\"FINA\" data-code=\"3103\" href=\"/review/FINA3103\" target=\"_blank\">FINA 3103</a> OR <a class=\"course-link\" data-subject=\"FINA\" data-code=\"3103H\" href=\"/review/FINA3103H\" target=\"_blank\">FINA 3103H</a>",
+        "corequisites": "",
+        "exclusions": "",
+        "rating_content": 4,
+        "rating_teaching": 3.5,
+        "rating_grading": 5,
+        "rating_workload": 4.5,
+        "review_count": 2,
+        "single_review": false,
+        "enrollment_status": 3,
+        "is_favourited": false,
+        "is_subscribed": false,
+        "user_review_hash": "",
+        "contributor_has_more": false,
+        "instructors": [
+            {
+                "id": 1025,
+                "name": "LIU, Binying",
+                "count": 2
+            }
+        ]
+    },
+    "reviews": [
+        {
+            "hash": "5Q6Ffi1zO0WvRJlbQy6i5w1K5JhfcaZ1",
+            "semester": "2018-19 Spring",
+            "instructors": [
+                {
+                    "id": 1025,
+                    "name": "LIU, Binying",
+                    "rating": 1
+                }
+            ],
+            "is_author": false,
+            "author": "nowonder",
+            "date": "Jun 10, 2019",
+            "title": "",
+            "comment_content": "The content is extremely easy. The course covers almost everything you need to know to become a trader! However, the content itself is not deep enough. So if you are planning to become a trader, further self-study is a must!",
+            "comment_teaching": "Teaching is acceptable. However, the lecture notes are just disaster. <br />There are many typos within the lecture slides and the professor only corrects those mistakes during lecture time. P.S There are even wrong solutions for both the mock midterm exam and final exam! My advice to the warriors that are planning to take this course is &quot;Don't believe what you see and hear whether it is on the lecture slides or directly coming out from professor's mouth&quot;. Professor himself is a typo.",
+            "comment_grading": "The grading is the only satisfactory part of this course! <br />22% A <br />60% B<br />18% C <br />In the end, he gave me A-! So Professor typo is still recommended if you are looking for gpa boost.",
+            "comment_workload": "Extremely light! only 3 assignments throughout the semester!",
+            "rating_content": 3,
+            "rating_teaching": 3,
+            "rating_grading": 5,
+            "rating_workload": 5,
+            "has_midterm": true,
+            "has_final": true,
+            "has_quiz": false,
+            "has_assignment": true,
+            "has_essay": false,
+            "has_project": false,
+            "has_attendance": false,
+            "has_reading": false,
+            "has_presentation": false,
+            "upvote_count": 0,
+            "vote_count": 1,
+            "voted": false,
+            "is_upvote": false,
+            "comment_count": 0,
+            "attachments": []
+        },
+        {
+            "hash": "V4heM867fEDwnKliBMjbsKL41lZ9nxVG",
+            "semester": "2017-18 Spring",
+            "instructors": [
+                {
+                    "id": 1025,
+                    "name": "LIU, Binying",
+                    "rating": 1
+                }
+            ],
+            "is_author": false,
+            "author": "Roddie",
+            "date": "Jun 11, 2018",
+            "title": "",
+            "comment_content": "Briefly about some basic mathematical introduction such as linear regression, some basic elucidation of the mathematical formula. Then talk about the actual trading, some trading strategies, transaction cost so on and so forth.",
+            "comment_teaching": "Prof.Liu comes to class seemingly unprepared but able to illustrate the rationale behind the formula and also the deeper interpretation of the formula. Quite difficult to follow up since he talks mathematically and statistically.",
+            "comment_grading": "VERY GOOD.<br />(30%) Three assignments: Mean is 90-ish<br />(35%) Group Project: Mean is around 85<br />(30%) Midterm: Mean is around 88<br />(5%) Participation: everyone gets full mark as long as you chat with others during classes<br /><br />For me, full mark in three assignment, 94 in midterm and 93 in group project gives me an A+.",
+            "comment_workload": "To some extent, the workload is quite heavy. IF NO ONE IN YOUR GROUP KNOW HOW TO CODE. Our group spent quite a lot of time pre-processing the data and post-processing the result since our coding skill is so-so.",
+            "rating_content": 5,
+            "rating_teaching": 4,
+            "rating_grading": 5,
+            "rating_workload": 4,
+            "has_midterm": true,
+            "has_final": false,
+            "has_quiz": false,
+            "has_assignment": true,
+            "has_essay": false,
+            "has_project": true,
+            "has_attendance": false,
+            "has_reading": false,
+            "has_presentation": true,
+            "upvote_count": 0,
+            "vote_count": 4,
+            "voted": false,
+            "is_upvote": false,
+            "comment_count": 0,
+            "attachments": []
+        }
+    ],
+    "composer": []
+}
