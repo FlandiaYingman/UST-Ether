@@ -61,6 +61,7 @@ app.get("/courses/:filename", (req, res, next) => {
                     author: review.author,
                     date: review.date,
                     title: review.title,
+                    instructors: review.instructors,
                     comment_content: review.comment_content,
                     comment_teaching: review.comment_teaching,
                     comment_grading: review.comment_grading,

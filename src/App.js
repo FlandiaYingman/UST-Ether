@@ -76,6 +76,12 @@ function App() {
               <div class="review" key={review.id}>
                 <h3>{review.author}: <span dangerouslySetInnerHTML={{ __html: review.title }}></span></h3>
                 <div>
+                  <p>instructors</p>
+                  <ul>
+                    {review.instructors.map((instructor) => (
+                      <li>instructor.name</li>
+                    ))}
+                  </ul>
                   <p>Semester: {review.semester}</p>
                   <p>Date: {review.date}</p>
                   <p>Rating Content: {review.rating_content}</p>
