@@ -9,7 +9,7 @@ function App() {
 
   useEffect(() => {
     async function fetchCourses() {
-      const response = await fetch("http://localhost:4000/courses");
+      const response = await fetch("/courses");
       const digests = await response.json();
       setCourses(digests);
     }
@@ -18,7 +18,7 @@ function App() {
   }, []);
 
   async function fetchCourseDetails(filename) {
-    const response = await fetch(`http://localhost:4000/courses/${filename}`);
+    const response = await fetch(`/courses/${filename}`);
     const course = await response.json();
     setSelectedCourse(course);
   }
